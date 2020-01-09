@@ -1,0 +1,9 @@
+/Users/naz/Projects/TrainStation/TrainStation/bin/Debug/TrainStation.exe
+/Users/naz/Projects/TrainStation/TrainStation/bin/Debug/TrainStation.pdb
+/Users/naz/Projects/TrainStation/TrainStation/obj/x86/Debug/TrainStation.csprojAssemblyReference.cache
+/Users/naz/Projects/TrainStation/TrainStation/obj/x86/Debug/TrainStation.exe
+/Users/naz/Projects/TrainStation/TrainStation/obj/x86/Debug/TrainStation.pdb
+/Users/naz/Projects/TrainStation/TrainStation/bin/Debug/Autofac.dll
+/Users/naz/Projects/TrainStation/TrainStation/bin/Debug/Autofac.pdb
+/Users/naz/Projects/TrainStation/TrainStation/bin/Debug/Autofac.xml
+/Users/naz/Projects/TrainStation/TrainStation/obj/x86/Debug/TrainStation.csproj.CopyComplete

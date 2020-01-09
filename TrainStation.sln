@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrainStation", "TrainStation\TrainStation.csproj", "{F2777813-2990-4561-908F-B09F1B7396DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrainStationTest", "TrainStationTest\TrainStationTest.csproj", "{D379F060-5E3D-4930-B950-5AB8A24F6447}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F2777813-2990-4561-908F-B09F1B7396DA}.Debug|x86.ActiveCfg = Debug|x86
+		{F2777813-2990-4561-908F-B09F1B7396DA}.Debug|x86.Build.0 = Debug|x86
+		{F2777813-2990-4561-908F-B09F1B7396DA}.Release|x86.ActiveCfg = Release|x86
+		{F2777813-2990-4561-908F-B09F1B7396DA}.Release|x86.Build.0 = Release|x86
+		{D379F060-5E3D-4930-B950-5AB8A24F6447}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{D379F060-5E3D-4930-B950-5AB8A24F6447}.Debug|x86.Build.0 = Debug|Any CPU
+		{D379F060-5E3D-4930-B950-5AB8A24F6447}.Release|x86.ActiveCfg = Release|Any CPU
+		{D379F060-5E3D-4930-B950-5AB8A24F6447}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
