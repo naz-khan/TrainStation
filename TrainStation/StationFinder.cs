@@ -29,10 +29,15 @@ namespace TrainStation
                     if (char.IsLetterOrDigit(currentChar))
                     {
                         remainingLetters.Add(currentChar);
+                        Console.WriteLine(currentChar);
                     }
                 }      
             }
             suggestions.NextLetters = remainingLetters;
+
+            foreach (var item in suggestions.Stations)
+                Console.WriteLine(item);
+
             return suggestions;
         }
     }
