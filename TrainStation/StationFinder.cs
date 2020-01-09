@@ -13,8 +13,8 @@ namespace TrainStation
         public Suggestions GetSuggestions(string userInput)
         {
             Suggestions suggestions = new Suggestions();
-            
-            Stations = File.ReadLines(@"/Users/naz/Projects/TrainStation/TrainStation/Stations.txt").ToList();
+            var txtFile = Directory.GetParent(Environment.CurrentDirectory).Parent + @"/Stations.txt";
+            Stations = File.ReadLines(txtFile).ToList();
             suggestions.Stations = Stations.Where(item => item.StartsWith(userInput, StringComparison.CurrentCulture)).ToList();
 
             List<char> remainingLetters = new List<char>();
